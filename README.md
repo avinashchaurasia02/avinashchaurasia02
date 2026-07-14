@@ -112,7 +112,6 @@ Building scalable backend applications with Java & Spring Boot while leveraging 
 # 🏆 GitHub Trophies
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=avinashchaurasia02&theme=onedark)](https://github.com/avinashchaurasia02/github-profile-trophy)
 
 <img src="https://github-profile-trophy.vercel.app/?username=avinashchaurasia02&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
 
