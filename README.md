@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **avinashchaurasia02/avinashchaurasia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -47,6 +47,5 @@ I am a System Engineer passionate about backend engineering and distributed syst
 ### Connect with me
 
 LinkedIn:
-your-linkedin-url
-- ⚡ Fun fact: ...
--->
+https://www.linkedin.com/in/avinash-chaurasia-java/
+
