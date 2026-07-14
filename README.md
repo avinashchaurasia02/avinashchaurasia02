@@ -22,7 +22,6 @@ Building scalable backend applications with Java & Spring Boot while leveraging 
 - 🌱 Currently mastering **Spring Boot, Microservices, and System Design**
 - ☁️ Experienced with **AWS, Docker, Kubernetes, Terraform, and Linux**
 - 🧩 Passionate about solving **Data Structures & Algorithms**
-- 🎯 Preparing for **Google Software Engineer (SWE)** opportunities
 
 ---
 
