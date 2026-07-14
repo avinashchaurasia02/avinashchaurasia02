@@ -11,6 +11,42 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...# Hi, I'm Avinash Chaurasia 👋
+
+## Java Backend Developer
+
+I am a System Engineer passionate about backend engineering and distributed systems.
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate
+- MySQL
+- PostgreSQL
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Linux
+- Git
+
+### Currently Learning
+
+- DSA in Java
+- System Design
+- Microservices
+- AWS
+
+### 2026 Goals
+
+- Solve 500+ DSA Problems
+- Build 10 Production-level Projects
+
+### Connect with me
+
+LinkedIn:
+your-linkedin-url
 - ⚡ Fun fact: ...
 -->
