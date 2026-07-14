@@ -108,6 +108,53 @@ Building scalable backend applications with Java & Spring Boot while leveraging 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashchaurasia02&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avinashchaurasia02&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</div>
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinashchaurasia02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/avinashchaurasia02">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/avinash-chaurasia-122058248/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<!-- Replace with your actual profiles -->
+<a href="https://leetcode.com/your_username">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/your_username">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+
+
 # 🤝 Let's Connect
 
 💼 LinkedIn  
