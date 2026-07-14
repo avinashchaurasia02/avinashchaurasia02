@@ -75,8 +75,7 @@ Building scalable backend applications with Java & Spring Boot while leveraging 
 
 # 🎯 2026 Goals
 
-- ✅ Crack Google Software Engineer Interview
-- ✅ Solve **500+ LeetCode Problems**
+- ✅ Solve **350+ LeetCode Problems**
 - ✅ Build **10 Production-Ready Backend Projects**
 - ✅ Master System Design
 - ✅ Contribute to Open Source
