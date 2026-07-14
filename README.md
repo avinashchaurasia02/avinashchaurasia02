@@ -2,7 +2,7 @@
 
 
 **avinashchaurasia02/avinashchaurasia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...# Hi, I'm Avinash Chaurasia 👋
-
+-->
 ## Java Backend Developer
 
 I am a System Engineer passionate about backend engineering and distributed systems.
