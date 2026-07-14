@@ -9,7 +9,7 @@ Building scalable backend applications with Java & Spring Boot while leveraging 
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash%20Chaurasia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinash-chaurasia-122058248/)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/avinashchaurasia02?style=for-the-badge)](https://github.com/avinashchaurasia02)
 
 </div>
 
@@ -99,21 +99,17 @@ Building scalable backend applications with Java & Spring Boot while leveraging 
 
 # 📊 GitHub Stats
 
-> *(Replace `https://github.com/avinashchaurasia02/` with your username.)*
+<div align="center">
 
-```text
-GitHub Stats
-Top Languages
-Contribution Graph
-GitHub Streak
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avinashchaurasia02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-You can generate these cards using:
-- https://github-readme-stats.vercel.app
-- https://streak-stats.demolab.com
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashchaurasia02&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<img src="https://streak-stats.demolab.com?user=avinashchaurasia02&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashchaurasia02&theme=tokyo-night&hide_border=true"/>
+
+</div>
 # 🤝 Let's Connect
 
 💼 LinkedIn  
